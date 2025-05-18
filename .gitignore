@@ -1,0 +1,8 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+*.jpg
